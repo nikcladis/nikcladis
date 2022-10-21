@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps on AWS, Google Cloud, IBM Data Engineering**
 
-- 👯 I’m looking to collaborate on **Software Development, Data Science, Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Software Development, Data Analysis, Machine Learning**
 
 - 📫 How to reach me **nikcladis@gmail.com**
 
